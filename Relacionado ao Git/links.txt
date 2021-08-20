@@ -1,0 +1,2 @@
+Syntax Markdown https://www.markdownguide.org/basic-syntax/
+Git Bash https://git-scm.com/downloads
